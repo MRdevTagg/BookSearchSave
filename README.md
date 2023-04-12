@@ -1,6 +1,7 @@
 # Book Search & Save
 
 Book Search & Save is a web application that allows users to search for books using the Google Books API and save them to a collection. This project is built with React using Vite as the development server and styled-components for styling. Jest is used for testing and Eslint is used for error detection.
+My goal is to demonstrate my skills with this technologies, in data fetching and UI manipulation through this project
 
 ## Technologies
 
