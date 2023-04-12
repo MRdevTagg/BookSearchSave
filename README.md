@@ -23,7 +23,7 @@ My goal is to demonstrate my skills with this technologies, in data fetching and
 1. Clone this repository
 2. Install dependencies with `npm install`
 3. Start the development server with `npm run dev`
-4. Open http://localhost:3000 in your browser to view the application
+
 
 ## Testing
 
